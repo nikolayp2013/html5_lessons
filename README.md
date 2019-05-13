@@ -1,5 +1,6 @@
 # html5_lessons
 HTML5 уроки для начинающих
+https://itproger.com/course/html/3
 
 Онлайн написание кода: 
 1) http://cssdeck.com/labs
