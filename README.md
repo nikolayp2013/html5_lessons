@@ -1,7 +1,7 @@
-# html5_lessons
+﻿# html5_lessons
 HTML5 уроки для начинающих
-Текущий изученный урок:3 
-https://itproger.com/course/html/3
+Текущий изученный урок:5 
+https://itproger.com/course/html/5
 
 Онлайн написание кода: 
 1) http://cssdeck.com/labs
