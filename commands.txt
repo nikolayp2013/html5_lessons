@@ -1,0 +1,8 @@
+git fetch
+git pull
+git status
+git add README.md
+git add lesson8.html
+git add lesson_templ.html
+git commit -m "initial project version"
+git push origin master
