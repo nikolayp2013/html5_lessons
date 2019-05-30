@@ -1,7 +1,7 @@
 ﻿# html5_lessons
 HTML5 уроки для начинающих
-Текущий изученный урок:11 
-https://itproger.com/course/html/11
+Текущий изученный урок:12 
+https://itproger.com/course/html/12
 
 Урок1:	 Введение в HTML
 Урок2:   Отображение файла в интернете
