@@ -1,7 +1,7 @@
 ﻿# html5_lessons
 HTML5 уроки для начинающих
-Текущий изученный урок:12 
-https://itproger.com/course/html/12
+Текущий изученный урок:13 
+https://itproger.com/course/html/13
 
 Урок1:	 Введение в HTML
 Урок2:   Отображение файла в интернете
@@ -14,6 +14,7 @@ https://itproger.com/course/html/12
 Урок10:	 Изображения в HTML
 Урок11:	 Таблицы в HTML
 Урок12:	 Подключение внешних стилей и скриптов
+Урок13:	 Теги <div> и <span>
 
 Онлайн написание кода: 
 1) http://cssdeck.com/labs
