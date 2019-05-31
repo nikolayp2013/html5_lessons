@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Поля ввода</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<head>
+<body>
+	<!-- Комментарий -->
+	<!-- action где данные будут обрабавываться -->
+	<!-- method какой метод будет использован для отправки данных get или post (без обновления странички) -->
+	<!-- id по этому тегу можно будет обращаться к этому полю -->
+	<form name="test" action="" method="post"> 
+		Введите ваше имя:<input type="text" value="Поиск..." placeholder="Поиск..." /><br />
+		<!-- Атрибут for тега label при нажатии на него курсор встает в поле ввода-->
+		<!-- Типы данных для тега label: text,date,datetime-local,week -->
+		<label for="name">Введите ваше имя:</label><input type="text" placeholder="Поиск..." name="name" id="name" title="Подсказка" maxlength="3" /><br /><br />
+		<label for="date">День рождения: </label><input type="date" name="date" id="date" /><br /><br />
+		
+		<label for="name">URL:</label><input type="url" /><br /><br />
+		
+		<input type="range"><br /><br />
+		
+		<label for="male">Мужской: </label><input type="radio" name="state" id="male" />
+		<label for="female">Женский: </label><input type="radio" name="state" id="female" /><br /><br />
+		
+		<input type="password" /><br /><br />
+		
+		<input type="number" /><br /><br />
+		
+		<input type="file" /><br /><br />
+		
+		<input type="color" /><br /><br />
+		
+		<label for="name">Со всем согласен</label><input type="checkbox" /><br />
+		<label for="name">Со всем согласен</label><input type="checkbox" /><br />
+		<label for="name">Со всем согласен</label><input type="checkbox" /><br />
+		<label for="name">Со всем согласен</label><input type="checkbox" /><br /><br />
+		
+		<!-- При нажатии на submit происходит перезагрузка страницы -->
+		<input type="button" value="Отправить button" /><br /><br />
+		<input type="submit" value="Отправить submit" /><br /><br />
+		
+		<!-- Тэг reset используется для очистки значений -->
+		<input type="reset" value="Очистить" /><br /><br />
+	</form>
+</body>
+</html>
