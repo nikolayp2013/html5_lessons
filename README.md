@@ -1,7 +1,7 @@
 ﻿# html5_lessons
 HTML5 уроки для начинающих
-Текущий изученный урок:17 
-https://itproger.com/course/html/17
+Текущий изученный урок:19 
+https://itproger.com/course/html/19
 
 Урок1:	 Введение в HTML <br />
 Урок2:   Отображение файла в интернете <br />
@@ -19,6 +19,8 @@ https://itproger.com/course/html/17
 Урок15:	 Textarea + button <br />
 Урок16:  Элемент выбора из списка SELECT + OPTION <br />
 Урок17:  Новые теги добавленные в версии HTML5 <br />
+Урок18:  Теги sub и sup <br />
+Урок19:  Специальные теги HTML5 <br />
 
 Онлайн написание кода: 
 1) http://cssdeck.com/labs
