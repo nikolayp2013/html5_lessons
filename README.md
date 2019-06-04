@@ -1,7 +1,7 @@
 ﻿# html5_lessons
 HTML5 уроки для начинающих
-Текущий изученный урок:19 
-https://itproger.com/course/html/19
+Текущий изученный урок:21 
+https://itproger.com/course/html/21
 
 Урок1:	 Введение в HTML <br />
 Урок2:   Отображение файла в интернете <br />
@@ -21,6 +21,8 @@ https://itproger.com/course/html/19
 Урок17:  Новые теги добавленные в версии HTML5 <br />
 Урок18:  Теги sub и sup <br />
 Урок19:  Специальные теги HTML5 <br />
+Урок20:	 Оптимизация под разные браузеры (opera,IE,chrome,sofary,mozilla) <br />
+Урок21:  Завершающий урок <br />
 
 Онлайн написание кода: 
 1) http://cssdeck.com/labs
